@@ -1,0 +1,8 @@
+.container {
+    border: 1px solid #ccc; /* Add a border around the box */
+    padding: 10px; /* Add padding inside the box */
+    margin: 20px; /* Add margin outside the box */
+    border-radius: 5px; /* Add rounded corners to the box */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a shadow effect */
+    background-color: red;
+  }
